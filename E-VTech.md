@@ -8,22 +8,20 @@
 
 ## 购物指南
 ### 购机指南
->**轻薄本** [查看](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649479620&idx=1&sn=28452400f256c5956f89d5a78ca70285&chksm=bf2cca3b885b432dfccdd0302cb290cb2bb6a907c436b8b5814de98a3ee15a8df3184e4546b8&token=1759306274&lang=zh_CN#rd)
-  *Updated on 08/14/2018*
+>**轻薄本** [查看](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649479620&idx=1&sn=28452400f256c5956f89d5a78ca70285&chksm=bf2cca3b885b432dfccdd0302cb290cb2bb6a907c436b8b5814de98a3ee15a8df3184e4546b8&token=1759306274&lang=zh_CN#rd)  
+`Updated on 08/14/2018`
 
->**游戏本** [查看][buy_laptop2]  
-  `Updated on 08/09/2018`
-
-[buy_laptop1]:
-
-[buy_laptop2]:(https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649479532&idx=1&sn=43bf5fb2db64ea108dce2b996b793276&chksm=bf2cca93885b4385f70122dfd139287d12b71f5bc4a5f08778fd42f4f37770702a72d4d80f9f#rd)
+>**游戏本** [查看](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649479532&idx=1&sn=43bf5fb2db64ea108dce2b996b793276&chksm=bf2cca93885b4385f70122dfd139287d12b71f5bc4a5f08778fd42f4f37770702a72d4d80f9f#rd)  
+`Updated on 08/09/2018`
 
 ### 装机指南
 >**配置清单**  
-> 2000元档  
-> *待撰写*  
-> 4000元档 *待撰写*  
-> 6000元档及以上 *待撰写*
+>* 2000元档  
+`Unavailable`  
+>* 4000元档  
+`Unavailable`  
+>* 6000元档及以上  
+`Unavailable`
 
 ### 外设指南
 >**鼠标**
